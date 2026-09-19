@@ -1,0 +1,6 @@
+{
+  "name": "Booking Gedung Tammuan Mali'",
+  "description": "Sistem reservasi online Gedung Pertemuan Tammuan Mali' Makale Tana Toraja dengan kalender booking otomatis dan panel kontrol admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
